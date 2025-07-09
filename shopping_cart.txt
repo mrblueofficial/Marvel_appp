@@ -1,0 +1,6 @@
+--- Shopping Cart Summary ---
+Rusk - R49.00 x 5 = R245.00
+Turr - R16.00 x 1 = R16.00
+Trr - R300.00 x 10 = R3000.00
+
+Total cost: R3261.00
